@@ -12,6 +12,7 @@
   <li> 📧 You can reach me at torstein_eide@hotmail.com </li>
 </ul>
 
+<h3 align="left">Currently commiting to gitlab for my bachelors project</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
