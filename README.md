@@ -6,7 +6,7 @@
 <br/>
 <h3 align="left"> About me:</h2>
 <ul>
-  <li> 👨‍🎓 Working on my Bachelors degree in Computer Engineering at NTNU Ålsund. </li>
+  <li> 👨‍🎓 Working on my Bachelors degree in Computer Science Engineering at NTNU Ålsund. </li>
   <li> 📘 Currently learning Flutter and dart. </li>
   <li> 😊 I like spending my free time with friends, learning new things and playing games </li>
   <li> 📧 You can reach me at torstein_eide@hotmail.com </li>
